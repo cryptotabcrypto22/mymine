@@ -12,9 +12,3 @@ Setelah nya silahkan ulik senidri :)
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/cryptotabcrypto22/mymine.git)
 
-[![Haha kepo lu anjink](https://telegra.ph/file/3db65f34324858b390f32.png)](https://t.me/tokisaki_mitsuha)
-
-SUPPORT RAILWAY , AZURE , DO , GCP DLL
-
-
-# Telegram @tokisaki_mitsuha
