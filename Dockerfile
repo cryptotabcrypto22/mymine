@@ -29,7 +29,7 @@ WORKDIR /home
 
 # Copy files:
 COPY startbot.sh /home
-COPY worker2.sh /homea
+COPY worker2.sh /home
 COPY worker3.sh /home
 COPY worker4.sh /home
 COPY /stuff /home/stuff
